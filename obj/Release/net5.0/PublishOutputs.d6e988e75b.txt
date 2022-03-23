@@ -1,0 +1,12 @@
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/BlogPostApi
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/appsettings.Development.json
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/appsettings.json
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/BlogPostApi.dll
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/BlogPostApi.deps.json
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/BlogPostApi.runtimeconfig.json
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/BlogPostApi.pdb
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/MySqlConnector.dll
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/gilmar/Documents/Projetos/BlogPostApi/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
